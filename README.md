@@ -9,5 +9,5 @@
 
 
 <div align="center">
-<img src="./src/components/images/app-todolist.gif">
+<img src="./src/components/images/app-todolist.gif" width="200" height="500">
 </div>
